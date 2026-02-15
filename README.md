@@ -1,5 +1,5 @@
 SUPERRAM CLI Commands
-================
+=================
 
 --- Project & Environment Management ---
 ram init [project-name] --lang [language]           # Create new project scaffold
